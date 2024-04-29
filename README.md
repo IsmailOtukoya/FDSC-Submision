@@ -27,12 +27,16 @@ The project was carried out with the following task goals in mind:
 The dataset "insurance" contains information about individuals' age, sex, BMI, number of children, smoking habits, region, and corresponding medical charges.
 
 ## Analysis Steps
-Data Exploration: Analyzed summary statistics of medical charges and the distribution of categorical variables. Visualized relationships among features using scatterplot matrix.
-Model Building: Developed regression models to predict medical charges, considering linear and nonlinear relationships. Explored interaction effects between smoking and obesity.
-Model Evaluation: Evaluated model performance using common regression evaluation metrics. Conducted residual analysis to identify areas for improvement.
-Results and Recommendations
+- Data Exploration: Analyzed summary statistics of medical charges and the distribution of categorical variables. Visualized relationships among features using scatterplot matrix.
+
+- Model Building: Developed regression models to predict medical charges, considering linear and nonlinear relationships. Explored interaction effects between smoking and obesity.
+
+- Model Evaluation: Evaluated model performance using common regression evaluation metrics. Conducted residual analysis to identify areas for improvement.
+
+### Results and Recommendations
 The project provides insights into factors influencing medical charges and develops predictive models to estimate healthcare costs.
 Recommendations include collecting additional data on lifestyle factors, exploring advanced machine learning techniques, and conducting further analysis to understand underlying factors driving medical expenses.
-Conclusion
+
+### Conclusion
 The Medical Charges Prediction Project addresses the task goals by leveraging regression analysis and machine learning techniques. By predicting medical charges accurately, the project aims to assist healthcare providers, insurers, and policymakers in making informed decisions and improving healthcare resource allocation.
 
