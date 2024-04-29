@@ -44,5 +44,5 @@ The dataset "insurance" contains information about individuals' age, sex, BMI, n
 
 
 ### Conclusion
-The Medical Charges Prediction Project addresses the task goals by leveraging regression analysis and machine learning techniques. By predicting medical charges accurately, the project aims to assist healthcare providers, insurers, and policymakers in making informed decisions and improving healthcare resource allocation.
+The Medical Charges Prediction Project addresses the task goals by leveraging regression analysis and machine learning techniques. By predicting medical charges accurately, the project aims to assist healthcare providers and insurers making informed decisions and improving healthcare resource allocation.
 
