@@ -34,8 +34,14 @@ The dataset "insurance" contains information about individuals' age, sex, BMI, n
 - Model Evaluation: Evaluated model performance using common regression evaluation metrics. Conducted residual analysis to identify areas for improvement.
 
 ### Results and Recommendations
-The project provides insights into factors influencing medical charges and develops predictive models to estimate healthcare costs.
-Recommendations include collecting additional data on lifestyle factors, exploring advanced machine learning techniques, and conducting further analysis to understand underlying factors driving medical expenses.
+- The project provides insights into factors influencing medical charges and develops predictive models to estimate healthcare costs.
+
+- The model with interaction effects and polynomial features demonstrated the best performance in predicting medical charges, capturing complex relationships between variables.
+  
+- Factors such as smoking habits, BMI, and age were found to significantly influence medical charges.
+
+- Recommendations for future improvements include collecting additional data on lifestyle factors, exploring more advanced machine learning techniques, and conducting further analysis to understand the underlying factors driving medical expenses.
+
 
 ### Conclusion
 The Medical Charges Prediction Project addresses the task goals by leveraging regression analysis and machine learning techniques. By predicting medical charges accurately, the project aims to assist healthcare providers, insurers, and policymakers in making informed decisions and improving healthcare resource allocation.
